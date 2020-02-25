@@ -1,11 +1,11 @@
-#Nick and Malek's New admin system
+# Nick and Malek's New admin system
 
-###New features:
+### New features:
 User creation from admin panel
 
 
-#####First Login credentials:
-#######username:
-pan
-#######password:
-login
+#### First Login credentials:
+###### username:
+####### pan
+###### password:
+####### login
