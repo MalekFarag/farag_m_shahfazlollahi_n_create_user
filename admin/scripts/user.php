@@ -52,7 +52,7 @@ function createuser($fname, $username, $email){
         Email: '.$username.'<br>
         Password: '.$password.'<br><br>
 
-        Login at http://localhost/farag_m_shahfazlollahi_n_create_user/admin/admin_login.php <br>
+        Login at http://localhost/farag_m_shahfazlollahi_n_create_user-master/admin/admin_login.php <br>
         ------------------------<br>
         <br><br><br>
         ';
