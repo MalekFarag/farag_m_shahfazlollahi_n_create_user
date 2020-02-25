@@ -1,0 +1,6 @@
+*Class files*
+https://stackoverflow.com/questions/28906487/fatal-error-class-phpmailer-not-found
+https://www.php.net/manual/en/book.pdo.php
+https://www.php.net/manual/en/function.md5.php
+https://github.com/PHPMailer/PHPMailer
+https://www.sitepoint.com/sending-emails-php-phpmailer/
